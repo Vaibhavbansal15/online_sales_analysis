@@ -9,4 +9,4 @@ Analyzed online sales data of a store and created a interactive dashbboard using
 3. Used different types of customized visualization.
 
 Dashboard
-![Dashboard Image](../Dashboard_Img.png)
+![Dashboard Image](/Dashboard_Img.png)
